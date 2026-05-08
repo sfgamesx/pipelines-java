@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wasermarius/CAB/_apis/build/status%2Fsfgamesx.pipelines-java?branchName=main)](https://dev.azure.com/wasermarius/CAB/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
